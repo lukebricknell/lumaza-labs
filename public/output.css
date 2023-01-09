@@ -642,6 +642,10 @@ video {
   height: 1rem;
 }
 
+.h-10{
+  height: 2.5rem;
+}
+
 .w-auto{
   width: auto;
 }
@@ -1363,6 +1367,10 @@ video {
     height: 2rem;
   }
 
+  .lg\:h-12{
+    height: 3rem;
+  }
+
   .lg\:w-1\/2{
     width: 50%;
   }
@@ -1469,6 +1477,14 @@ video {
 
   .xl\:h-8{
     height: 2rem;
+  }
+
+  .xl\:h-14{
+    height: 3.5rem;
+  }
+
+  .xl\:h-12{
+    height: 3rem;
   }
 
   .xl\:w-2\/5{
